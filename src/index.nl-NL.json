@@ -1,0 +1,19 @@
+{
+  "form": {
+    "invalid-field": "Vul een geldig(e) {{label}} in.",
+    "invalid-field-example": "Vul {{label}} in op deze manier: {{example}}.",
+    "invalid-field-required": "Vul {{label}} in.",
+    "invalid-field-length-max": "{{label}} moet {{maxLength}} tekens of minder zijn.",
+    "invalid-field-length-min": "{{label}} moet {{minLength}} of meer tekens zijn.",
+    "invalid-field-length-range": "{{label}} moet tussen {{minLength}} en {{maxLength}} tekens zijn.",
+    "invalid-field-disallowed-chars": "{{label}} mag geen ‘{{chars}}’ hebben.",
+    "invalid-field-disallowed-chars-list": "{{label}} mag geen ‘{{chars}}’ hebben.",
+    "invalid-field-number": "{{label}} moet een nummer zijn.",
+    "invalid-field-integer": "{{label}} moet een geheel getal zijn.",
+    "invalid-field-number-min": "{{label}} moet {{min}} of meer zijn.",
+    "invalid-field-number-max": "{{label}} moet {{max}} of minder zijn.",
+    "invalid-field-number-range": "{{label}} moet tussen {{min}} en {{max}} zijn.",
+    "invalid-field-checkbox-group-required": "Kies een antwoord.",
+    "invalid-field-file-required": "Stuur een bijlage mee."
+  }
+}

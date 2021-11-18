@@ -1,0 +1,19 @@
+{
+  "form": {
+    "invalid-field": "Als invoer niet overeenkomt met wat er moet worden ingevuld",
+    "invalid-field-example": "Als een specifieke invoer niet overeenkomt met wat er moet worden ingevuld",
+    "invalid-field-required": "Als de invoer leeg is",
+    "invalid-field-length-max": "Als de invoer te lang is",
+    "invalid-field-length-min": "Als de invoer te kort is",
+    "invalid-field-length-range": "Als de invoer te lang of te kort is",
+    "invalid-field-disallowed-chars": "Als de invoer tekens gebruikt die niet zijn toegestaan en je niet weet wat de tekens zijn",
+    "invalid-field-disallowed-chars-list": "Als de invoer tekens gebruikt die niet zijn toegestaan en je weet wat de tekens zijn",
+    "invalid-field-number": "Als de invoer geen nummer is",
+    "invalid-field-integer": "Als de invoer geen geheel getal is",
+    "invalid-field-number-min": "Als het aantal te laag is",
+    "invalid-field-number-max": "Als het aantal te hoog is",
+    "invalid-field-number-range": "Als de invoer tussen 2 nummers moet zijn",
+    "invalid-field-checkbox-group-required": "Als een verplichte keuzeknop niet is aangevinkt",
+    "invalid-field-file-required": "Als een verplichte bijlage ontbreekt."
+  }
+}
