@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0-alpha.0",
+  "author": "Community for NL Design System",
+  "description": "User interface content for NL Design System",
+  "license": "CC0-1.0",
+  "name": "@nl-design-system-unstable/i18n",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git+ssh",
+    "url": "git@github.com:nl-design-system/i18n.git"
+  }
+}
